@@ -34,13 +34,13 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://x.com/xssaaaa/">
+  <a onclick="window.location.href='https://x.com/xssaaaa/'">
     <img src="https://img.shields.io/badge/xssaaaa-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X"/>
   </a>
-  <a href="https://nx.tn/xssaaaa">
+  <a onclick="window.location.href='https://nx.tn/xssaaaa'">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://dev.to/xssaaaa">
+  <a onclick="window.location.href='https://dev.to/xssaaaa'">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
   </a>
 </div>
