@@ -40,7 +40,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <a href="https://nx.tn/xssaaaa">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://dev.to/xssaaaa">
+  <a href="https://dev.to/xsa">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV"/>
   </a>
 </div>
