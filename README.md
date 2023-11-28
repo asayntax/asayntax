@@ -34,8 +34,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://x.com/xssaaaa/">
-    <img src="https://img.shields.io/badge/xssaaaa-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X"/>
+  <a href="https://x.com/_xssaaaa/">
+    <img src="https://img.shields.io/badge/Twitter/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter/X"/>
   </a>
   <a href="https://nx.tn/xssaaaa">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
