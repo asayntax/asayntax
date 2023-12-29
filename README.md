@@ -14,7 +14,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 
 ### 🔭 I’m working on
 
-- Projects for freelance clients.
+- Projects for freelance clients
 
 ### 🌱 I’m learning
 
