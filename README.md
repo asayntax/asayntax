@@ -8,8 +8,8 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   <img src="https://img.shields.io/badge/HTML-%23e5522b.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%232d53e5.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/javascript-%23f7e025.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Ghost-black?style=for-the-badge&logo=ghost&logoColor=yellow" alt="Ghost"/>
-  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <!-- <img src="https://img.shields.io/badge/Ghost-black?style=for-the-badge&logo=ghost&logoColor=yellow" alt="Ghost"/>
+  <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/> -->
 </div>
 
 ### 🔭 I’m working on
